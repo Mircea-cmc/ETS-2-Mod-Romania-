@@ -1,13 +1,14 @@
 By TeRoArEa 
 -
-------------------------------> Euro Truck Simulator 2 Romania Mod <----------------------------------
+----------------------------> Euro Truck Simulator 2 Romania Mod <-----------------------------
 -
 Salut aici ve-ti gasii modurile mele pentru o simulare adevarata !
 -
-Unele moduri le gasiti pe: https://ets2.lt/en/ dar si pe STEAM WORKSHOP, o sa va scriu eu care sunt pe workshop pe steam si care
+Unele moduri le gasiti pe: https://ets2.lt/en/ dar si pe STEAM WORKSHOP, o sa va scriu eu care
+sunt pe workshop pe steam si care
 sunt pe ets.mod!
 -
-------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------
 -
 link mod: https://ets2.lt/en/
 -
@@ -18,7 +19,7 @@ link mod: https://ets2.lt/en/
 5. YTHQ GPS
 6. GPS RG PRO  RED DARK  HG 7,0
 -
-------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------
 -
 link mapa: https://romaniamap.ro/
 -
@@ -26,7 +27,7 @@ cand descarcati toate cele 6 fisiere dupa site si le dezarhivati pe cele 2 cu pa
 trebuie sa aveti 5 fisiere de tip .scs
 in folderul mod.
 -
-------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------
 mapa romania 
 -
 1. automat_v06h_1_56
@@ -35,7 +36,7 @@ mapa romania
 4. materials_v06h_1_56
 5. map_v06h_1_56
 -
-------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------
 -
 Mod Workshop Steam
 -
@@ -73,10 +74,10 @@ Mod Workshop Steam
 -
 total moduri in documente 40 de fisiere !
 -
-------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------
 -
 daca aveti probleme cu modurile astept mesaj pe tiktok la mircea._.cmc !
 -
 Distractie placuta si drumuri bune!!!!
 -
-------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------
