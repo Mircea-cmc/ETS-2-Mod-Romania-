@@ -37,7 +37,7 @@ mapa romania
 -
 ------------------------------------------------------------------------------------------------------
 -
-WORKSHOP STEAM
+Mod Workshop Steam
 -
 1. Realistic Truck-Effect-Sounds V1.1 by Max2712
 2. Wind - Tire & Trailer Effects Mod
