@@ -1,6 +1,6 @@
 By TeRoArEa 
 -
-----------------------------> Euro Truck Simulator 2 Romania Mod <-----------------------------
+            ----> Euro Truck Simulator 2 Romania Mod <----
 -
 Salut aici ve-ti gasii modurile mele pentru o simulare adevarata !
 -
