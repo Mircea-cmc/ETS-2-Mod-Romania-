@@ -76,9 +76,9 @@ Graphics/Lights Mod
 2. Improved Rain - https://steamcommunity.com/sharedfiles/filedetails/?id=2878783666
 3. Street Lamps - Without fog ( https://steamcommunity.com/sharedfiles/filedetails/?id=2632156792 )
 4. Real traffic lights - https://steamcommunity.com/sharedfiles/filedetails/?id=3047125015
-5. (La Alegere) Realistic Brutal Graphics And Weather - https://steamcommunity.com/sharedfiles/filedetails/?id=3103086032
-6. (La Alegere) Realistic Rain And Water And Thunder Sounds - https://steamcommunity.com/sharedfiles/filedetails/?id=3103103198
-7. (La Alegere) Improved Rain For Euro Truck Simulator - https://steamcommunity.com/sharedfiles/filedetails/?id=2878783666
+5. Realistic Brutal Graphics And Weather - https://steamcommunity.com/sharedfiles/filedetails/?id=3103086032
+6. Realistic Rain And Water And Thunder Sounds - https://steamcommunity.com/sharedfiles/filedetails/?id=3103103198
+7. Improved Rain For Euro Truck Simulator - https://steamcommunity.com/sharedfiles/filedetails/?id=2878783666
 8. Grass_3.6_lite - https://steamcommunity.com/sharedfiles/filedetails/?id=2937314261
 9. Realistic Headlights - https://steamcommunity.com/sharedfiles/filedetails/?id=2112187479
 10. (La Alegere) Improved Rain For Euro Truck Simulator - https://steamcommunity.com/sharedfiles/filedetails/?id=2878783666
