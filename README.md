@@ -4,84 +4,91 @@ By TeRoArEa
 -
 Salut aici ve-ti gasii modurile mele pentru o simulare adevarata !
 -
-Unele moduri le gasiti pe: https://ets2.lt/en/ dar si pe STEAM WORKSHOP, o sa va scriu eu care
-sunt pe workshop pe steam si care
-sunt pe ets.mod!
+Unele moduri le gasiti pe: https://ets2.lt/en/ dar si pe STEAM WORKSHOP, o sa va scriu eu
+care sunt pe workshop pe steam si care sunt pe ets.mod!
 -
 -----------------------------------------------------------------------------------------------
 -
-Necesar pentru mapa romaniei!
+Necesar pentru mapa Romaniei!
+DLC free !
 ALL DLC CRACK: https://mosbymods.de/
 -
 -----------------------------------------------------------------------------------------------
 -
-link mod: https://ets2.lt/en/
+Link Maps: https://romaniamap.ro/
 -
-1. ETS2_Real_Time_SCale
-2. Daniels ETS2 Random Events Mod - V1.6.3.2
-3. Daniels ETS2 Random Events - More Bumpy Asphalt Patches Addon
-4. Actual_Day
-5. YTHQ GPS
-6. GPS RG PRO  RED DARK  HG 7,0
--
------------------------------------------------------------------------------------------------
--
-link mapa: https://romaniamap.ro/
--
-cand descarcati toate cele 6 fisiere dupa site si le dezarhivati pe cele 2 cu part.1 / part.2,
+Cand descarcati toate cele 6 fisiere dupa site si le dezarhivati pe cele 2 cu part.1 / part.2,
 trebuie sa aveti 5 fisiere de tip .scs
 in folderul mod.
 -
------------------------------------------------------------------------------------------------
-mapa romania 
+Romania Maps 
 -
-1. automat_v06h_1_56
-2. def_v06h_1_56
-3. models_v06h_1_56
-4. materials_v06h_1_56
-5. map_v06h_1_56
+1- automat_v06h_1_56.scs - 14.5 MB
+2- def_v06h_1_56.scs - 21.5 MB
+3- map_v06h_1_56.scs - 50.9 MB
+4- materials_v06h_1_56.scs - 2.1 GB
+5- models_v06h_1_56.part1.rar - 1.7 GB (dezarhivare part.1)
+6- models_v06h_1_56.part2.rar - 1.5 GB (dezarhivare part.2)
+-
+-----------------------------------------------------------------------------------------------
+-
+Link Mod: https://ets2.lt/en/
+-
+1. Daniels ETS2 Random Events - https://ets2.lt/en/daniels-random-events-v1-53/
+2. Daniels ETS2 Random Events Mod - https://ets2.lt/en/daniels-random-events-v1-6-3-2-1-55/
+3. YTHQ GPS - https://ets2.lt/en/ythq-gps-1-56/
+4. Actual_Day - https://www.modland.net/euro-truck-simulator-2/other/actual-day.html
 -
 -----------------------------------------------------------------------------------------------
 -
 Mod Workshop Steam
 -
-1. Realistic Truck-Effect-Sounds V1.1 by Max2712
-2. Wind - Tire & Trailer Effects Mod
-3. Realistic short sound when refueling
-4. Rain & Wiper Sound Mod
-5. Interior Lights SCS Trucks
-6. SCANIA 2016 Next Gen interior STANDALONE
-7. Insanux Scania NG Interior EU
-8. Scania S&R Interiors
-9. SCANIA S V8
-10. Extended Interior Camera View
-11. Air Ride Ultimate
-12. Interior Rattle Sound Mod
-13. Street Lamps - Without fog
-14. GPS for Quick Jobs (Helpful in VR)
-15. Real engine sounds on all trucks
-16. tree_improved_4k
-17. Realistic Brutal Graphics And Weather – Celebrating 11 Incredible Years!
-18. Realistic Rain And Water And Thunder Sounds
-19. Real Traffic Density ETS2
-20. Real Economy Reloaded
-21. Real Company Trailers & Trucks - Volume 1 [TRAFFIC+OWNED]
-22. GMC Community - Romanian Traffic Pack
-23. Traffic Jam Mod
-24. Real Ai Traffic Sounds ETS2 (FMOD)
-25. Icons!
-26. Real companies & gas stations
-27. Grass_3.6_lite
-28. Sound Fixes Pack v25.52 - ETS2
-39. Realistic Headlights
-30. Realistic Rain v5.1.1
-31. Realistic Physics Mod V 1.5.5
+Other Mod
 -
-total moduri in documente 40 de fisiere !
+1. Real Decor Christmas - https://steamcommunity.com/sharedfiles/filedetails/?id=2901338163
+2. Air Ride Ultimate - https://steamcommunity.com/sharedfiles/filedetails/?id=1526602422
+3. Scania Extreme - Glowing tuning -https://steamcommunity.com/sharedfiles/filedetails/?id=2516786527
+4. GPS for Quick Jobs - https://steamcommunity.com/sharedfiles/filedetails/?id=2780470092
+5. Real Company Trailers & Trucks volume 1 - https://steamcommunity.com/sharedfiles/filedetails/?id=2915168765
+6. Real Company Trailers & Trucks volume 2 - https://steamcommunity.com/sharedfiles/filedetails/?id=3009308298
+7. Real Company Trailers & Trucks [TRAFFIC ONLY] - https://steamcommunity.com/sharedfiles/filedetails/?id=2956504232
+8. GMC Community - Romanian Traffic Pack - https://steamcommunity.com/sharedfiles/filedetails/?id=3260268183
+9. Traffic Jam Mod - https://steamcommunity.com/sharedfiles/filedetails/?id=877772802
+10. Icons! - https://steamcommunity.com/sharedfiles/filedetails/?id=2819211949
+11. Real companies & gas stations - https://steamcommunity.com/sharedfiles/filedetails/?id=2933731468
+12. Realistic Physics Mod V 1.5.8 - https://steamcommunity.com/sharedfiles/filedetails/?id=3129467522
+-----------------------------------------------------------------------------------------------
+-
+Sound Mod
+- 
+1. Real Train Sounds ETS2 - https://steamcommunity.com/sharedfiles/filedetails/?id=2439106226
+2. Wind - Tire & Trailer Effects Mod - https://steamcommunity.com/sharedfiles/filedetails/?id=2577902563
+3. Realistic short sound when refueling - https://steamcommunity.com/sharedfiles/filedetails/?id=1785083821
+4. Real Soundproofing - https://steamcommunity.com/sharedfiles/filedetails/?id=2681371293
+5. Interior Rattle Sound Mod - https://steamcommunity.com/sharedfiles/filedetails/?id=3012654894
+6. Real engine sounds on all trucks - https://steamcommunity.com/sharedfiles/filedetails/?id=3472696230
+7. Sound Fixes Pack - https://steamcommunity.com/sharedfiles/filedetails/?id=648591060
+-----------------------------------------------------------------------------------------------
+-
+Graphics/Lights Mod
+-
+1. tree_improved_4k - https://steamcommunity.com/sharedfiles/filedetails/?id=2916069460
+2. Improved Rain - https://steamcommunity.com/sharedfiles/filedetails/?id=2878783666
+3. Street Lamps - Without fog ( https://steamcommunity.com/sharedfiles/filedetails/?id=2632156792 )
+4. Real traffic lights - https://steamcommunity.com/sharedfiles/filedetails/?id=3047125015
+5. (La Alegere) Realistic Brutal Graphics And Weather - https://steamcommunity.com/sharedfiles/filedetails/?id=3103086032
+6. (La Alegere) Realistic Rain And Water And Thunder Sounds - https://steamcommunity.com/sharedfiles/filedetails/?id=3103103198
+7. (La Alegere) Improved Rain For Euro Truck Simulator - https://steamcommunity.com/sharedfiles/filedetails/?id=2878783666
+8. Grass_3.6_lite - https://steamcommunity.com/sharedfiles/filedetails/?id=2937314261
+9. Realistic Headlights - https://steamcommunity.com/sharedfiles/filedetails/?id=2112187479
+10. (La Alegere) Improved Rain For Euro Truck Simulator - https://steamcommunity.com/sharedfiles/filedetails/?id=2878783666
+-----------------------------------------------------------------------------------------------
+-
+Total moduri 33 + 5 cu mapa Romania 38 in total !   !
 -
 -----------------------------------------------------------------------------------------------
 -
-daca aveti probleme cu modurile astept mesaj pe tiktok la mircea._.cmc !
+Daca aveti probleme cu modurile astept mesaj pe tiktok la mircea._.cmc !
 -
 Distractie placuta si drumuri bune!!!!
 -
