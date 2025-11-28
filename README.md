@@ -7,6 +7,7 @@ Salut aici ve-ti gasii modurile mele pentru o simulare adevarata !
 Unele moduri le gasiti pe: https://ets2.lt/en/ dar si pe STEAM WORKSHOP, o sa va scriu eu
 care sunt pe workshop pe steam si care sunt pe ets.mod!
 -
+Modul De Grafica (1€ Luna) -  https://snowymoon.io/
 -----------------------------------------------------------------------------------------------
 -
 Necesar pentru mapa Romaniei!
