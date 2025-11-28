@@ -88,6 +88,9 @@ Graphics/Lights Mod
 Total moduri 33 + 5 cu mapa Romania 38 in total !   !
 -
 -----------------------------------------------------------------------------------------------
+Primele Moduri ca sa va mearga trebuie asa sa arate !
+<img width="414" height="752" alt="image" src="https://github.com/user-attachments/assets/ba468927-bd8d-4725-93f3-36a32c8117ca" />
+
 -
 Daca aveti probleme cu modurile astept mesaj pe tiktok la mircea._.cmc !
 -
