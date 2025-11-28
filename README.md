@@ -68,6 +68,7 @@ Sound Mod
 5. Interior Rattle Sound Mod - https://steamcommunity.com/sharedfiles/filedetails/?id=3012654894
 6. Real engine sounds on all trucks - https://steamcommunity.com/sharedfiles/filedetails/?id=3472696230
 7. Sound Fixes Pack - https://steamcommunity.com/sharedfiles/filedetails/?id=648591060
+8. Rain & Wiper Sound Mod - https://steamcommunity.com/sharedfiles/filedetails/?id=2427016033
 -----------------------------------------------------------------------------------------------
 -
 Graphics/Lights Mod
@@ -77,11 +78,10 @@ Graphics/Lights Mod
 3. Street Lamps - Without fog ( https://steamcommunity.com/sharedfiles/filedetails/?id=2632156792 )
 4. Real traffic lights - https://steamcommunity.com/sharedfiles/filedetails/?id=3047125015
 5. Realistic Brutal Graphics And Weather - https://steamcommunity.com/sharedfiles/filedetails/?id=3103086032
-6. Realistic Rain And Water And Thunder Sounds - https://steamcommunity.com/sharedfiles/filedetails/?id=3103103198
-7. Improved Rain For Euro Truck Simulator - https://steamcommunity.com/sharedfiles/filedetails/?id=2878783666
+6. Realistic Rain And Water - https://steamcommunity.com/sharedfiles/filedetails/?id=3103103198
+7. Improved Rain - https://steamcommunity.com/sharedfiles/filedetails/?id=2878783666
 8. Grass_3.6_lite - https://steamcommunity.com/sharedfiles/filedetails/?id=2937314261
 9. Realistic Headlights - https://steamcommunity.com/sharedfiles/filedetails/?id=2112187479
-10. (La Alegere) Improved Rain For Euro Truck Simulator - https://steamcommunity.com/sharedfiles/filedetails/?id=2878783666
 -----------------------------------------------------------------------------------------------
 -
 Total moduri 33 + 5 cu mapa Romania 38 in total !   !
