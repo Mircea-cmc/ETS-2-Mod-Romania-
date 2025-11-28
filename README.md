@@ -20,6 +20,7 @@ Link Maps: https://romaniamap.ro/
 Cand descarcati toate cele 6 fisiere dupa site si le dezarhivati pe cele 2 cu part.1 / part.2,
 trebuie sa aveti 5 fisiere de tip .scs
 in folderul mod.
+-----------------------------------------------------------------------------------------------
 -
 Romania Maps 
 -
