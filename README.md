@@ -52,7 +52,7 @@ Other Mod
 4. GPS for Quick Jobs - https://steamcommunity.com/sharedfiles/filedetails/?id=2780470092
 5. Real Company Trailers & Trucks volume 1 - https://steamcommunity.com/sharedfiles/filedetails/?id=2915168765
 6. Real Company Trailers & Trucks volume 2 - https://steamcommunity.com/sharedfiles/filedetails/?id=3009308298
-7. Real Company Trailers & Trucks [TRAFFIC ONLY] - https://steamcommunity.com/sharedfiles/filedetails/?id=2956504232
+7. Real Company Trailers & Trucks traffic - https://steamcommunity.com/sharedfiles/filedetails/?id=2956504232
 8. GMC Community - Romanian Traffic Pack - https://steamcommunity.com/sharedfiles/filedetails/?id=3260268183
 9. Traffic Jam Mod - https://steamcommunity.com/sharedfiles/filedetails/?id=877772802
 10. Icons! - https://steamcommunity.com/sharedfiles/filedetails/?id=2819211949
