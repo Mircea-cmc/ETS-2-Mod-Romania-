@@ -75,7 +75,7 @@ Graphics/Lights Mod
 -
 1. tree_improved_4k - https://steamcommunity.com/sharedfiles/filedetails/?id=2916069460
 2. Improved Rain - https://steamcommunity.com/sharedfiles/filedetails/?id=2878783666
-3. Street Lamps - Without fog ( https://steamcommunity.com/sharedfiles/filedetails/?id=2632156792 )
+3. Street Lamps - Without fog - https://steamcommunity.com/sharedfiles/filedetails/?id=2632156792
 4. Real traffic lights - https://steamcommunity.com/sharedfiles/filedetails/?id=3047125015
 5. Realistic Brutal Graphics And Weather - https://steamcommunity.com/sharedfiles/filedetails/?id=3103086032
 6. Realistic Rain And Water - https://steamcommunity.com/sharedfiles/filedetails/?id=3103103198
