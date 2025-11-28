@@ -7,7 +7,6 @@ Salut aici ve-ti gasii modurile mele pentru o simulare adevarata !
 Unele moduri le gasiti pe: https://ets2.lt/en/ dar si pe STEAM WORKSHOP, o sa va scriu eu
 care sunt pe workshop pe steam si care sunt pe ets.mod!
 -
-Modul De Grafica (1€ Luna) -  https://snowymoon.io/
 -----------------------------------------------------------------------------------------------
 -
 Necesar pentru mapa Romaniei!
@@ -74,6 +73,8 @@ Sound Mod
 -----------------------------------------------------------------------------------------------
 -
 Graphics/Lights Mod
+-
+Modul De Grafica (1€ Luna) -  https://snowymoon.io/
 -
 1. tree_improved_4k - https://steamcommunity.com/sharedfiles/filedetails/?id=2916069460
 2. Improved Rain - https://steamcommunity.com/sharedfiles/filedetails/?id=2878783666
